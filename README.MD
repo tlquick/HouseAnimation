@@ -1,4 +1,4 @@
-This is a J2ME MidLet project that displays a house with animated background created circa 2014
+This is a J2ME MidLet project that displays a house with animated background(created circa 2014), used for a beginner programming subject
 - Uses Inheritance, sprites, Timertasks
 - Uses BlueJ as IDE <br>
 <img src="/House1.jpg" height="120" width="100" >
