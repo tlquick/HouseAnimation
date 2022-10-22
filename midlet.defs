@@ -1,0 +1,17 @@
+#MIDlet suite file
+midlet.suite.description=
+midlet.suite.name=Eleventh
+midlet.suite.vendor=BlueJ\ ME
+midlet.suite.version=1.0
+midlet1.class=FighterPlane
+midlet1.exclude=true
+midlet1.icon=file\:/C\:/Insearch/MIDlet%20subject/workshops/Week%2010/Finished_Tenth/res/icons/default.gif
+midlet1.name=FighterPlane
+midlet2.class=Pokemons
+midlet2.exclude=false
+midlet2.icon=file\:/C\:/Insearch/MIDlet%20subject/workshops/Week%2011/Finished_Eleventh/res/icons/default.gif
+midlet2.name=Pokemons
+midlet3.class=House
+midlet3.exclude=true
+midlet3.icon=file\:/C\:/Insearch/MIDlet%20subject/workshops/Week%2011/Finished_Eleventh/res/icons/default.gif
+midlet3.name=House
